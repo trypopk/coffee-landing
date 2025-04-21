@@ -1,0 +1,42 @@
+.reviews {
+    padding: 4rem 2rem;
+    text-align: center;
+    background: #fff6f1;
+  }
+  
+  .review-card {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .review-card .text {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .review-card .author {
+    font-weight: bold;
+    color: #6f4e37;
+    margin-bottom: 0.5rem;
+  }
+  
+  .review-card .rating {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .buttons button {
+    background: #6f4e37;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    margin: 0 0.5rem;
+    cursor: pointer;
+  }
+  
